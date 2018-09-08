@@ -1,0 +1,18 @@
+setup: false
+
+world: autoMine
+
+
+x: 0
+z: 0
+
+ranks: 
+- D
+- C 
+- B
+- A
+
+# time in ticks before default mine (20 ticks is a second)
+defaultDelay: 60
+# the amount that each level should reduce the amount of ticks
+levelDelay: 10

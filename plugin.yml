@@ -1,0 +1,13 @@
+name: AutoMine 
+main: com.booksaw.automine.Main
+version: 1.0 
+author: booksaw
+description: A plugin which creates an automining aspect of a prison server
+depend: [WorldEdit, MineResetLite]
+website: www.spigotmc.org/resources/authors/booksaw123.120955/
+
+commands: 
+  automine:
+    description: Command assosiated with the Auto Mine plugin
+    aliases: [am]
+    usage: /<command> 
